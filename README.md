@@ -49,7 +49,3 @@ This project is licensed under the MIT License.
 Feel free to fork this repository, submit pull requests, or report issues.
 
 ---
-
-### Notes:
-- Customize the GitHub link if you plan to publish this code on GitHub.
-- Add sections such as **"Contributing"** and **"License"** as needed, or modify them based on your preferences.
