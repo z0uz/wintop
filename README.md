@@ -1,7 +1,3 @@
-Here's a simple `README.md` file for your system monitoring tool:
-
----
-
 # WinTop: Python System Monitoring Tool
 
 `WinTop` is a lightweight Python-based system monitoring tool for Windows, inspired by **htop**. It provides real-time information about CPU usage, memory consumption, and processes, with colored output for better visibility.
